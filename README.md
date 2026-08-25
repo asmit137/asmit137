@@ -30,7 +30,6 @@ Currently, I'm **open to Full Stack Developer, Frontend Developer, React.js Deve
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/asmitgawandeofficial)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:asmitgawande1307@gmail.com)
 [![GitHub - Main](https://img.shields.io/badge/GitHub_Main-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asmit137)
-
 [![GitHub - Second](https://img.shields.io/badge/GitHub_Second-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asmitgawandedigitalheroes-web)
 
 ---
